@@ -10,7 +10,7 @@ To run the project
 —————————————
 
 1. Please clone the project to your local machine.
-2. cd to /target folder under the project and run “mvn clean package” to run the project.
+2. cd to /target folder under the project and run “mvn clean package TestAutomation-0.0.1-SNAPSHOT.jar” to run the project.
 3. The above command will run the 2 tests in Automation.java 
    a. 1st test case is to solve the API automation question.
    b. 2nd test case is to launch the selenium web driver project.
