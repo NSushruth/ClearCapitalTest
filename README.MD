@@ -13,6 +13,7 @@ To run the project
 2. cd to /target folder under the project and run “mvn clean package TestAutomation-0.0.1-SNAPSHOT.jar” to run the project.
 3. The above command will run the 2 tests in Automation.java 
    a. 1st test case is to solve the API automation question.
+   
    b. 2nd test case is to launch the selenium web driver project.
 4. The project also has a file named NameUtility.java which has been fixed to work and print the first name, middle name and the last name.
 5. The project also has a file named NameUtilityImproved.java which has a better version using the split method in Java.
