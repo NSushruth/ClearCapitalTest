@@ -12,9 +12,10 @@ To run the project
 1. Please clone the project to your local machine.
 2. cd to /target folder under the project and run “mvn clean package TestAutomation-0.0.1-SNAPSHOT.jar” to run the project.
 3. The above command will run the 2 tests in Automation.java 
-
    a. 1st test case is to solve the API automation question.
-   
    b. 2nd test case is to launch the selenium web driver project.
 4. The project also has a file named NameUtility.java which has been fixed to work and print the first name, middle name and the last name.
 5. The project also has a file named NameUtilityImproved.java which has a better version using the split method in Java.
+
+Questions 1 and 2 are Test codes, hence you can find them under /src/test/java/com/clearcapital/Automation.java
+Question 3 is a regular code asked to optimize, hence the optimized code and the improved code respectively can be found under /src/main/java/com/clearcapital/source: NameUtility.java and NameUtilityImproved.java
